@@ -1,0 +1,17 @@
+:root {
+    --Black-color: #000000ee;
+    --Bgr-Color: #d6d6d6cc;
+    --White-color: #f4f4f4;
+}
+
+* {
+    margin:  0;
+    padding: 0;
+    box-sizing: inherit;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background: var(--Bgr-Color);
+    box-sizing: border-box;
+}
